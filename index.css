@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.navbar-brand{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#navbarSupportedContent{
+    margin-left: 40%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+#text{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#mani{
+    margin-top: 5%;
+}
+#item{
+    position: relative;
+}
+
+.carousel-caption{
+    position: relative;
+    top:50%;
+}
+#bk{
+    position: relative;
+    margin-left: 20%;
+}
+/*
+#icon{
+
+}*/
+#card:hover{
+    background-color: rgb(221, 57, 194);
+    color: white;
+    transition: 1s;
+}
+ul,li{
+    border-bottom: 2px;
+}
+li:hover{
+    padding: 5px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-bottom: 5px;
+    color:papayawhip;
+}
+.bi bi-laptop{
+    color: rgb(0, 255, 200);
+}
